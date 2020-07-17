@@ -218,7 +218,7 @@ footer{
 }
 .welcome{
     line-height: 10vw!important;
-	margin-right:5vw!important;
+    padding: 0 10vw 0 0;
 }
 
 }
