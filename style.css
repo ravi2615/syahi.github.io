@@ -244,6 +244,12 @@ footer{
 .welcome{
     line-height: 3vw!important;
     padding: 0 0vw 0 0;
+    margin-bottom:20px!important; 
+}
+
+#myBtn{
+  bottom: 15px;
+  right: 10px;
 }
 
 }
